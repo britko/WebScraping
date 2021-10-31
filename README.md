@@ -1,3 +1,9 @@
 # WebScraping (python)
 
-## 웹 스크래핑 연습
+## Tech
+- Python 3.8
+- XPath
+- BeautifulSoup
+- Selenium
+- HTML
+- ChromDriver
